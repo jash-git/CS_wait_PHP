@@ -1,0 +1,6 @@
+C:\Users\jash\Desktop\CS2PHPforJson\CS2PHPforJson\bin\Debug\CS2PHPforJson.exe.config
+C:\Users\jash\Desktop\CS2PHPforJson\CS2PHPforJson\bin\Debug\CS2PHPforJson.exe
+C:\Users\jash\Desktop\CS2PHPforJson\CS2PHPforJson\bin\Debug\CS2PHPforJson.pdb
+C:\Users\jash\Desktop\CS2PHPforJson\CS2PHPforJson\obj\Debug\CS2PHPforJson.csprojResolveAssemblyReference.cache
+C:\Users\jash\Desktop\CS2PHPforJson\CS2PHPforJson\obj\Debug\CS2PHPforJson.exe
+C:\Users\jash\Desktop\CS2PHPforJson\CS2PHPforJson\obj\Debug\CS2PHPforJson.pdb
